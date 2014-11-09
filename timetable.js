@@ -14,13 +14,6 @@ data = [
   "room": "A-209"
 },
 {
-  "period": [[1, 5]],
-  "category": "選択",
-  "subject": "生命情報学",
-  "teacher": "堀川",
-  "room": "A2-101"
-},
-{
   "period": [[2, 1]],
   "category": "選択",
   "subject": "多変量解析",
