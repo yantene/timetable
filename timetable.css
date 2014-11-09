@@ -1,0 +1,30 @@
+*{
+  font-family: 'Rounded M+ 1c light';
+}
+table#timetable{
+  width: 790px;
+  margin-left: auto;
+  margin-right: auto;
+}
+div.kwd{
+  font-size: 20pt;
+}
+div.ewd{
+  font-size: 10pt;
+}
+div.period{
+  width: 30px;
+  font-size: 20pt;
+}
+div.lecture{
+  height: 100px;
+  width: 150px;
+  padding: 3px;
+  margin: 2px;
+  text-align: center;
+  background-color: whitesmoke
+}
+div.subject{
+  height: 50px;
+  font-weight: bold;
+}
