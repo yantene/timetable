@@ -1,5 +1,10 @@
+@font-face{
+  font-family: 'mplus-1c-light';
+  src: url('http://mplus-fonts.sourceforge.jp/webfonts/mplus-1c-light.ttf')
+       format('truetype');
+}
 *{
-  font-family: 'Rounded M+ 1c light';
+  font-family: 'mplus-1c-light';
 }
 table#timetable{
   width: 790px;
