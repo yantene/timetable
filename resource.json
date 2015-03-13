@@ -4,55 +4,55 @@
   "category": "選択",
   "subject": "プログラム言語論",
   "teacher": "梅村",
-  "room": ""
+  "room": "A-311"
 },
 {
   "period": [[4, 1]],
   "category": "選択",
   "subject": "画像情報処理",
   "teacher": "栗山",
-  "room": ""
+  "room": "C1-201"
 },
 {
   "period": [[4, 3]],
   "category": "選択",
   "subject": "音声・自然言語処理論",
   "teacher": "秋葉",
-  "room": ""
+  "room": "A-309"
 },
 {
   "period": [[2, 3]],
   "category": "選択",
   "subject": "計算理論",
   "teacher": "藤戸",
-  "room": ""
+  "room": "A-312"
 },
 {
   "period": [[5, 4]],
   "category": "選択",
   "subject": "ソフトウェア工学",
   "teacher": "河辺",
-  "room": ""
+  "room": "A-312"
 },
 {
   "period": [[1, 3]],
   "category": "選択",
   "subject": "インタフェースデザイン論",
   "teacher": "岡田",
-  "room": ""
+  "room": "A2-301"
 },
 {
   "period": [[3, 4]],
   "category": "選択必修",
   "subject": "分散システム",
   "teacher": "大村",
-  "room": ""
+  "room": "A2-101"
 },
 {
   "period": [[5, 3]],
   "category": "選択必修",
   "subject": "組込システム",
   "teacher": "三浦",
-  "room": ""
+  "room": "A2-301"
 }
 ]
