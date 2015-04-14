@@ -1,12 +1,5 @@
 [
 {
-  "period": [[1, 3]],
-  "category": "選択",
-  "subject": "インタフェースデザイン論",
-  "teacher": "岡田",
-  "room": "A2-301"
-},
-{
   "period": [[1, 4], [1, 5]],
   "category": "卒業研究",
   "subject": "進捗報告",
@@ -40,13 +33,6 @@
   "subject": "分散システム",
   "teacher": "大村",
   "room": "A2-101"
-},
-{
-  "period": [[5, 3]],
-  "category": "選択必修",
-  "subject": "組込システム",
-  "teacher": "三浦",
-  "room": "A2-301"
 },
 {
   "period": [[5, 4]],
