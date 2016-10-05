@@ -1,92 +1,43 @@
 [
 {
-  "period": [[3, 1]],
-  "category": "研究倫理科目",
-  "subject": "研究者倫理",
-  "teacher": "各教員",
-  "room": "A2-101"
-},
-{
-  "period": [[2, 2]],
+  "period": [[1, 2]],
   "category": "選択",
-  "subject": "音声言語処理特論",
-  "teacher": "秋葉",
-  "room": "A2-101"
+  "subject": "データマイニング・可視化特論Ⅱ",
+  "teacher": "栗山",
+  "room": "C1-201"
 },
 {
-  "period": [[4, 2]],
-  "category": "選択",
-  "subject": "データマイニング・可視化特論Ⅰ",
-  "teacher": "青野",
-  "room": "A2-201"
-},
-{
-  "period": [[3, 4]],
-  "category": "選択",
-  "subject": "画像工学特論",
-  "teacher": "金澤・菅谷",
-  "room": "B1-201"
-},
-{
-  "period": [[3, 3]],
-  "category": "選択",
-  "subject": "ネットワーク工学特論",
-  "teacher": "大村",
-  "room": "B1-201"
-},
-{
-  "period": [[4, 3]],
-  "category": "選択",
-  "subject": "シミュレーション特論",
-  "teacher": "後藤",
-  "room": "F-207"
-},
-{
-  "period": [[3, 5]],
-  "category": "選択",
-  "subject": "言語メディア処理特論Ⅰ",
-  "teacher": "井佐原",
-  "room": "A1-101"
-},
-{
-  "period": [[4, 1]],
-  "category": "社会科学科目",
-  "subject": "消費者行動論",
-  "teacher": "坂本",
+  "period": [[2, 3]],
+  "category": "選択必修",
+  "subject": "計算機システム特論",
+  "teacher": "小林",
   "room": "A2-301"
 },
 {
   "period": [[3, 2]],
   "category": "社会科学科目",
-  "subject": "ゲーム理論",
-  "teacher": "藤原",
-  "room": "A1-301"
+  "subject": "マーケティング論",
+  "teacher": "坂本",
+  "room": "A2-301"
 },
 {
-  "period": [[1, 4]],
-  "category": "研究室",
-  "subject": "統計",
-  "teacher": "研究室",
-  "room": "C3-303"
+  "period": [[4, 1]],
+  "category": "社会科学科目",
+  "subject": "国際知的財産法",
+  "teacher": "蔡",
+  "room": "A2-201"
 },
 {
-  "period": [[2, 4], [2, 5]],
-  "category": "研究室",
-  "subject": "進捗報告会",
-  "teacher": "研究室",
-  "room": "C3-303"
+  "period": [[4, 3]],
+  "category": "選択必修",
+  "subject": "アルゴリズム工学特論",
+  "teacher": "藤戸",
+  "room": "A2-201"
 },
 {
-  "period": [[5, 2]],
+  "period": [[5, 3]],
   "category": "研究室",
   "subject": "英語",
-  "teacher": "研究室",
-  "room": "C3-303"
-},
-{
-  "period": [[5, 4], [5, 5]],
-  "category": "研究室",
-  "subject": "ゼミ",
   "teacher": "研究室",
   "room": "C3-303"
 }
